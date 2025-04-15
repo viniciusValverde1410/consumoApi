@@ -32,7 +32,7 @@ const FilmList = () => {
     if (loading) {
         return (
             <div className={styles.loading}>
-                Carregando filmes... 
+                Carregando filmes... ✈🛸
             </div>
         )
     }

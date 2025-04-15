@@ -88,7 +88,8 @@
   .loading {
     text-align: center;
     padding: 40px;
-    font-size: 18px;
+    font-size: 78px;
+    font-weight: bold;
     color: #555;
   }
   
